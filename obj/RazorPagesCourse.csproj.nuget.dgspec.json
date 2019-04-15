@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\RazorPagesCourse\\RazorPagesCourse.csproj": {}
+    "C:\\420 - Y22 - HR Server Script\\RazorPagesCourse\\RazorPagesCourse.csproj": {}
   },
   "projects": {
-    "C:\\git\\RazorPagesCourse\\RazorPagesCourse.csproj": {
+    "C:\\420 - Y22 - HR Server Script\\RazorPagesCourse\\RazorPagesCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\RazorPagesCourse\\RazorPagesCourse.csproj",
+        "projectUniqueName": "C:\\420 - Y22 - HR Server Script\\RazorPagesCourse\\RazorPagesCourse.csproj",
         "projectName": "RazorPagesCourse",
-        "projectPath": "C:\\git\\RazorPagesCourse\\RazorPagesCourse.csproj",
-        "packagesPath": "C:\\Users\\zhurt\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\RazorPagesCourse\\obj\\",
+        "projectPath": "C:\\420 - Y22 - HR Server Script\\RazorPagesCourse\\RazorPagesCourse.csproj",
+        "packagesPath": "C:\\Users\\1796061\\.nuget\\packages\\",
+        "outputPath": "C:\\420 - Y22 - HR Server Script\\RazorPagesCourse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\zhurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1796061\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
