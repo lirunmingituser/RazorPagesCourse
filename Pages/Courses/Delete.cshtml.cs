@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -25,14 +25,10 @@ namespace RazorPagesCourse.Pages.Courses
         {
             if (id == null)
             {
-                Course = await _context.Course.FirstOrDefaultAsync();
-            }
-            else
-            {
-                Course = await _context.Course.FirstOrDefaultAsync(m => m.ID == id);
+                return NotFound();
             }
 
-
+            Course = await _context.Course.FirstOrDefaultAsync(m => m.ID == id);
 
             if (Course == null)
             {

@@ -28,7 +28,7 @@ namespace RazorPagesCourse.Models
                         Date = DateTime.Parse("2019-2-12"),
                         Semester = "2019-W",
                         Description = "nan",
-                        Credits = 3.2m
+                        Credits = 3.2
 
                     },
 
@@ -39,7 +39,7 @@ namespace RazorPagesCourse.Models
                         Date = DateTime.Parse("2019-2-12"),
                         Semester = "2019-W",
                         Description = "nan",
-                        Credits = 2.2m
+                        Credits = 2.2
                     },
                     new Course
                     {
@@ -48,7 +48,7 @@ namespace RazorPagesCourse.Models
                         Date = DateTime.Parse("2019-2-12"),
                         Semester = "2019-W",
                         Description = "nan",
-                        Credits = 2.2m
+                        Credits = 2.2
                     }
                 );
                 context.SaveChanges();

@@ -15,8 +15,8 @@ namespace RazorPagesCourse.Models
         public string Semester { get; set; }
         public string Description { get; set; }
 
-        [Range(1, 100), DataType(DataType.Currency)]
+     
 
-        public decimal Credits { get; set; }
+        public double Credits { get; set; }
     }
 }
